@@ -1,6 +1,6 @@
 # panopticon-roulette
-- Spent all of one night making this mini-game for my creative project for the honors class The Society of Spectacle. 
-- The design and themes of this game are based on class discussions of vision/power and axes of meaning with regard to images/text.
+I spent all of one night making this mini-game for my creative project for the honors class The Society of Spectacle. 
+The design and themes of this game are based on class discussions of vision/power and axes of meaning with regard to images/text.
 
 ## How to Play
 - The game is simple and is played using only spacebar.
